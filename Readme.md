@@ -16,22 +16,25 @@
 ---
 
 ### 🚀 Featured Projects
-| Project | Description |
-|---|---|
-| **Poké-Dash** | Three.js endless runner — multi-biome worlds, procedural sky, boss fights |
-| **Sangam** | Mobile-first college alumni/student network platform |
-| **CSPDCL Substation Portal** | SVG-based single line diagram + equipment management dashboard |
-| **VyomsTech** | Company site & portfolio for full-stack/game dev services |
+| Project | Description | Live |
+|---|---|---|
+| **GateHub** | Full-stack web platform | [🔗 Visit](https://projectalps.netlify.app/) |
+| **Pikachu Dash** | Canvas-based browser game — lives system, boss fights, ZAP mechanic | [🔗 Play](https://amanmehta276.github.io/Pikachu-Dash/) |
+| **Sangam** | Mobile-first college alumni/student network platform | [🔗 Visit](https://cgitsangam.netlify.app/) |
+| **TrackMind** | Notes / productivity tracking app | [🔗 Visit](https://trackmindnotes.netlify.app/) |
 
-> Add live/repo links here once ready — happy to wire these into badges + thumbnails.
+> CSPDCL Substation Portal & VyomsTech link chahiye ho to bhej dena, wo bhi add kar dunga.
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
+<a href="https://bsky.app/profile/amanmehta276" target="_blank"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" /></a>
+<a href="https://behance.net/YOUR_BEHANCE_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
 <a href="https://instagram.com/vyom_not" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/aman-mehta-782334281/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/@snaptoon276" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://youtube.com/@SnapToon" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a href="https://mastodon.social/@YOUR_MASTODON_HANDLE" target="_blank"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
 <a href="mailto:amankrmehta02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
