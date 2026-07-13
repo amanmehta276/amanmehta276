@@ -23,7 +23,6 @@
 | **Sangam** | Mobile-first college alumni/student network platform | [🔗 Visit](https://cgitsangam.netlify.app/) |
 | **TrackMind** | Notes / productivity tracking app | [🔗 Visit](https://trackmindnotes.netlify.app/) |
 
-> CSPDCL Substation Portal & VyomsTech link chahiye ho to bhej dena, wo bhi add kar dunga.
 
 ---
 
